@@ -1,2 +1,2 @@
-# fs2018-skeleton
-facturascripts 2018 skeleton
+# fs2018-plugin-skeleton
+facturascripts 2018 plugin skeleton
