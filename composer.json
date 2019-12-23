@@ -3,5 +3,12 @@
     "description": "A FacturaScripts2018 Plugin skeleton creator",
     "require": {
         "php": "^7.2"
+    },
+    "license": "LGPL-3.0-or-later",
+    "keywords": [
+        "facturascripts", "fs2018", "facturascripts plugin"
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^4.*"
     }
 }
