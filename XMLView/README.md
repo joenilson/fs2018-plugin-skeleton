@@ -20,3 +20,5 @@ To use the power of FacturaScripts screens generation you must to put the XML Vi
     </columns>
 </view>
 ```
+
+Be aware that this structure have demo fields that aren't required neither standard, always refer to the official documentation.
