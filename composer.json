@@ -9,6 +9,6 @@
         "facturascripts", "fs2018", "facturascripts plugin"
     ],
     "require-dev": {
-        "phpunit/phpunit": "^4.*"
+        "phpunit/phpunit": "^8.5"
     }
 }
