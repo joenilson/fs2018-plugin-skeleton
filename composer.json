@@ -1,0 +1,7 @@
+{
+    "name": "joenilson/fs2018-plugin-skeleton",
+    "description": "A FacturaScripts2018 Plugin skeleton creator",
+    "require": {
+        "php": "^7.2"
+    }
+}
